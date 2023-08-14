@@ -1,0 +1,102 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "Ngs-yEC-TpwHy4wufbm93TkNaic",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "AcFAAvc777fC3Ieu7kmjwZ_LQZ4",
+      "id": "tEn5BjRY8Uw",
+      "snippet": {
+        "publishedAt": "2023-01-27T15:05:00Z",
+        "channelId": "UCteRPiisgIoHtMgqHegpWAQ",
+        "title": "How to Learn Python FAST with ChatGPT?",
+        "description": "Intro to Python eBook (free) 👉🏼 https://clickhubspot.com/jdz\n\nIn this video, I am sharing 4 tips to learn any coding language FAST with ChatGPT. This video is focused on Python for data science but the tips are relevant to any programming language. How have you been using ChatGPT?  Any cool ideas?\n\nTry ChatGPT here: https://chat.openai.com\n\nMy Self-Taught Data Science Journey: https://youtu.be/34r9OwjysDM\nHow I Would Learn Data Science in 2023: https://youtu.be/ZWgRvW8d_N4\nWhy is Data Science Job Search Hard? https://youtu.be/fc6ZQX46Kz8\n\n~~~ CERTIFICATES & COURSES ~~~ \n\nDATA SCIENTIST\n📊 Data Science Certificate 👉🏼 https://imp.i384100.net/DataScienceCert\n🏅 Data Science Bootcamp 👉🏼 https://bit.ly/data-scientist-bootcamp\n\nDATA ANALYTICS\n🏅 Google Data Analytics Certificate 👉🏼 https://imp.i384100.net/GoogleDataCert\n\nPYTHON \n🐍 Python for Everybody 👉🏼 https://imp.i384100.net/PythonSpec\n⚡ Python for Data Science 👉🏼 https://bit.ly/python-data-science-ml\n📑 Python for Data Visualization 👉🏼 https://bit.ly/python-data-viz\n🏅 Python Pandas 👉🏼 https://bit.ly/python-pandas-data-analysis\n\nSQL \n⚡ SQL Basics for Data Science 👉🏼 https://imp.i384100.net/SQLforDS\n🏅 SQL Bootcamp 👉🏼 https://bit.ly/sql-bootcamps\n\nMACHINE LEARNING\n🏅 Machine Learning Bootcamp 👉🏼 https://bit.ly/machine-learning-atoz\n⚙️ Machine Learning Specialization 👉🏼 https://imp.i384100.net/ML\n\nSTATISTICS \n⚙️ Statistics for Data Analysis  👉🏼 https://bit.ly/statistics-data-science\n📑 Intro to Statistics 👉🏼 https://imp.i384100.net/Stats\n\nEXCEL \n🎨 Excel for Data Analysis 👉🏼https://imp.i384100.net/Excel\n🎨 Excel Advanced 👉🏼 https://bit.ly/data-scientist-bootcamp\n\nCODING PRACTICE\n🏅 Practice Coding Interviews 👉🏼 https://stratascratch.com/?via=sundas\n\n🌍 ALL COURSES 👉🏼 https://kit.co/SundasKhalid\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~ \n\nMY FAVORITE GEAR\n🎥  My YouTube Camera Gear - https://kit.co/SundasKhalid\n⌨️ My Desk Setup - https://kit.co/SundasKhalid\n\nMY FAVORITE TOOLS\n📚 Read Books FAST on Shortform 👉🏼 https://www.shortform.com/sundas\n✍️ Coursera Plus 7 day free trial 👉🏼https://imp.i384100.net/CourseraPlus \n🏅 Practice Coding Interviews 👉🏼 https://www.stratascratch.com/?via=sundas\n\nLET'S BE FRIENDS\n🌍  My website - https://sundaskhalid.com\n📸  Instagram - https://instagram.com/sundaskhalidd\n🐦  Twitter - https://twitter.com/sundaskhalid6\n\nSUBSCRIBE FOR MORE VIDEOS\nhttps://www.youtube.com/sundaskhalid?sub_confirmation=1\n\n0:00 Intro \n1:20 Intro to Python HubSpot (sponsored)\n2:03 Roadmap \n4:24 SQL to Python\n5:26 Simplify concepts \n6:22 Write new code \n7:03 Other ChatGPT hacks\n7:31 Limitations of ChatGPT\n\nBINGE THESE PLAYLISTS NEXT \nStarting in Data Science: https://youtube.com/playlist?list=PLNvMRDyXHRnfRw-wJa4BSUdZjtnBEXkGH\nLearn SQL: https://www.youtube.com/playlist?list=PLNvMRDyXHRne8qEj3Uipdt4eqkmN1z7bG\nThe Tech Lounge: https://www.youtube.com/playlist?list=PLNvMRDyXHRneiXWLSPJX2ZhMp09bpSJkV\n\nABOUT ME\nI'm Sundas. I'm a self-taught data scientist from a non-tech background, currently at a FAANG company. I have been in the industry for over 8 years spread across two big tech companies. On this channel, I share tips for people interested in entering data science with the goal to democratize knowledge and make complicated topics digestible for everyone. All opinions are mine! \n\nPS. Some of the links included are affiliate links and help me keep this channel going. Thanks for the support. \n\nBusiness inquiries: info.careerpy@gmail.com\n\n#chatgpt #python #code",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tEn5BjRY8Uw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tEn5BjRY8Uw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tEn5BjRY8Uw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tEn5BjRY8Uw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tEn5BjRY8Uw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sundas Khalid",
+        "tags": [
+          "data science",
+          "data scientist",
+          "self-taugh data scientist",
+          "big tech",
+          "Machine Learning",
+          "Python",
+          "data science projects",
+          "data science tutorials",
+          "data science jobs",
+          "AI",
+          "data science 2021",
+          "big data",
+          "data analyst",
+          "data analytics",
+          "business analyst",
+          "sundas khalid",
+          "women of color in tech",
+          "people of color in tech",
+          "inspiring stories",
+          "data science at google",
+          "chatgpt",
+          "python roadmap 2023",
+          "python for data science",
+          "pandas",
+          "numpy",
+          "learn python with chatgpt",
+          "chatgpt hacking",
+          "coding with chatgpt"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "How to Learn Python FAST with ChatGPT?",
+          "description": "Intro to Python eBook (free) 👉🏼 https://clickhubspot.com/jdz\n\nIn this video, I am sharing 4 tips to learn any coding language FAST with ChatGPT. This video is focused on Python for data science but the tips are relevant to any programming language. How have you been using ChatGPT?  Any cool ideas?\n\nTry ChatGPT here: https://chat.openai.com\n\nMy Self-Taught Data Science Journey: https://youtu.be/34r9OwjysDM\nHow I Would Learn Data Science in 2023: https://youtu.be/ZWgRvW8d_N4\nWhy is Data Science Job Search Hard? https://youtu.be/fc6ZQX46Kz8\n\n~~~ CERTIFICATES & COURSES ~~~ \n\nDATA SCIENTIST\n📊 Data Science Certificate 👉🏼 https://imp.i384100.net/DataScienceCert\n🏅 Data Science Bootcamp 👉🏼 https://bit.ly/data-scientist-bootcamp\n\nDATA ANALYTICS\n🏅 Google Data Analytics Certificate 👉🏼 https://imp.i384100.net/GoogleDataCert\n\nPYTHON \n🐍 Python for Everybody 👉🏼 https://imp.i384100.net/PythonSpec\n⚡ Python for Data Science 👉🏼 https://bit.ly/python-data-science-ml\n📑 Python for Data Visualization 👉🏼 https://bit.ly/python-data-viz\n🏅 Python Pandas 👉🏼 https://bit.ly/python-pandas-data-analysis\n\nSQL \n⚡ SQL Basics for Data Science 👉🏼 https://imp.i384100.net/SQLforDS\n🏅 SQL Bootcamp 👉🏼 https://bit.ly/sql-bootcamps\n\nMACHINE LEARNING\n🏅 Machine Learning Bootcamp 👉🏼 https://bit.ly/machine-learning-atoz\n⚙️ Machine Learning Specialization 👉🏼 https://imp.i384100.net/ML\n\nSTATISTICS \n⚙️ Statistics for Data Analysis  👉🏼 https://bit.ly/statistics-data-science\n📑 Intro to Statistics 👉🏼 https://imp.i384100.net/Stats\n\nEXCEL \n🎨 Excel for Data Analysis 👉🏼https://imp.i384100.net/Excel\n🎨 Excel Advanced 👉🏼 https://bit.ly/data-scientist-bootcamp\n\nCODING PRACTICE\n🏅 Practice Coding Interviews 👉🏼 https://stratascratch.com/?via=sundas\n\n🌍 ALL COURSES 👉🏼 https://kit.co/SundasKhalid\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~ \n\nMY FAVORITE GEAR\n🎥  My YouTube Camera Gear - https://kit.co/SundasKhalid\n⌨️ My Desk Setup - https://kit.co/SundasKhalid\n\nMY FAVORITE TOOLS\n📚 Read Books FAST on Shortform 👉🏼 https://www.shortform.com/sundas\n✍️ Coursera Plus 7 day free trial 👉🏼https://imp.i384100.net/CourseraPlus \n🏅 Practice Coding Interviews 👉🏼 https://www.stratascratch.com/?via=sundas\n\nLET'S BE FRIENDS\n🌍  My website - https://sundaskhalid.com\n📸  Instagram - https://instagram.com/sundaskhalidd\n🐦  Twitter - https://twitter.com/sundaskhalid6\n\nSUBSCRIBE FOR MORE VIDEOS\nhttps://www.youtube.com/sundaskhalid?sub_confirmation=1\n\n0:00 Intro \n1:20 Intro to Python HubSpot (sponsored)\n2:03 Roadmap \n4:24 SQL to Python\n5:26 Simplify concepts \n6:22 Write new code \n7:03 Other ChatGPT hacks\n7:31 Limitations of ChatGPT\n\nBINGE THESE PLAYLISTS NEXT \nStarting in Data Science: https://youtube.com/playlist?list=PLNvMRDyXHRnfRw-wJa4BSUdZjtnBEXkGH\nLearn SQL: https://www.youtube.com/playlist?list=PLNvMRDyXHRne8qEj3Uipdt4eqkmN1z7bG\nThe Tech Lounge: https://www.youtube.com/playlist?list=PLNvMRDyXHRneiXWLSPJX2ZhMp09bpSJkV\n\nABOUT ME\nI'm Sundas. I'm a self-taught data scientist from a non-tech background, currently at a FAANG company. I have been in the industry for over 8 years spread across two big tech companies. On this channel, I share tips for people interested in entering data science with the goal to democratize knowledge and make complicated topics digestible for everyone. All opinions are mine! \n\nPS. Some of the links included are affiliate links and help me keep this channel going. Thanks for the support. \n\nBusiness inquiries: info.careerpy@gmail.com\n\n#chatgpt #python #code"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT8M5S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "998928",
+        "likeCount": "29267",
+        "favoriteCount": "0",
+        "commentCount": "717"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

@@ -1,0 +1,862 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "m-ZcKgZ53S-LKLa0Q1cPNpwaiWs",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UoY0wLXNgYNz9SdhILwWGiRCNbw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rfscVS0vtbw"
+      },
+      "snippet": {
+        "publishedAt": "2018-07-11T18:00:42Z",
+        "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "title": "Learn Python - Full Course for Beginners [Tutorial]",
+        "description": "This course will give you a full introduction into all of the core concepts in python. Follow along with the videos and you'll be a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rfscVS0vtbw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rfscVS0vtbw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rfscVS0vtbw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "freeCodeCamp.org",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-07-11T18:00:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AKBF21dAGjarS-WtOmqO_VRYH3E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kqtD5dpn9C8"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-16T13:00:20Z",
+        "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+        "title": "Python for Beginners - Learn Python in 1 Hour",
+        "description": "This Python tutorial for beginners show how to get started with Python quickly. Learn to code in 1 hour! Watch this tutorial get ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kqtD5dpn9C8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kqtD5dpn9C8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kqtD5dpn9C8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Programming with Mosh",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-16T13:00:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "b4X1u__qdzi98hla2-XfADGH304",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_uQrJ0TkZlc"
+      },
+      "snippet": {
+        "publishedAt": "2019-02-18T15:00:08Z",
+        "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+        "title": "Python Tutorial - Python Full Course for Beginners",
+        "description": "Python tutorial - Python full course for beginners - Go from Zero to Hero with Python (includes machine learning & web ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_uQrJ0TkZlc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_uQrJ0TkZlc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_uQrJ0TkZlc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Programming with Mosh",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-02-18T15:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yih0Jr7JLn6nkaBq8jOr4OKqpm4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XKHEtdqhLK8"
+      },
+      "snippet": {
+        "publishedAt": "2021-02-15T15:00:12Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "Python Full Course for free 🐍",
+        "description": "Python tutorial for beginners full course #python #tutorial #beginners ⭐️Time Stamps⭐️ #1 (00:00:00)​ Python tutorial for ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XKHEtdqhLK8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XKHEtdqhLK8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XKHEtdqhLK8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bro Code",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-02-15T15:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rWqR7TPlw64AaKJF3gTXE3l-vXw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nLRL_NcnK-4"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-01T13:55:40Z",
+        "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "title": "Harvard CS50’s Introduction to Programming with Python – Full University Course",
+        "description": "Learn Python programming from Harvard University. It dives more deeply into the design and implementation of web apps with ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nLRL_NcnK-4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nLRL_NcnK-4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nLRL_NcnK-4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "freeCodeCamp.org",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-01T13:55:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "S_0QEpDJZDWRW39xZgb3DaFMvDc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HtKqSJX7VoM"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-31T01:31:57Z",
+        "channelId": "UCtoo4_P6ilCj7jwa4FmA5lQ",
+        "title": "Curso de POO con PYTHON desde CERO (Completo)",
+        "description": "MENU DEL CURSO DE POO con PYTHON *** 00:00 - Introducción 02:39 - Recomendación ----- LO BÁSICO DE POO ----- 02:59 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HtKqSJX7VoM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HtKqSJX7VoM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HtKqSJX7VoM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Soy Dalto",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-31T01:31:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4KIJpsA_C8ik7aVEoU4HQBXUzY0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "x7X9w_GIm1s"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-25T15:19:28Z",
+        "channelId": "UCsBjURrPoezykLs9EqgamOA",
+        "title": "Python in 100 Seconds",
+        "description": "Python is arguably the world's most popular programming language. It is easy to learn, yet suitable in professional software like ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x7X9w_GIm1s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x7X9w_GIm1s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x7X9w_GIm1s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fireship",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-25T15:19:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NpYkuikizNjXhppu32OccjSCpJY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FUPbYtRUs5o"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-03T07:38:43Z",
+        "channelId": "UCYsrnFgMjmOGD3kCvdt-BIw",
+        "title": "ဘာလို့ python လေ့လာသင့်တာလဲ - Beginner Python Programming  (Python အခြေခံက စလေ့လာမယ်)",
+        "description": "ပုံမှန် programmer တွေအတွက်တင်မဟုတ်ပဲ scientists တွေ data analysis, Artificial intelligence, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FUPbYtRUs5o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FUPbYtRUs5o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FUPbYtRUs5o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Baeom Edu - Burmese",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-03T07:38:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7l-NZwcRthqlwaiAk3FvAycnF48",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LYLEN7Bu9rw"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-29T10:39:25Z",
+        "channelId": "UCXjMQPs7o7CAtIXv2z0Uhtw",
+        "title": "Pygame generated Tree - Pygame and random module, Python | Coding and Programming",
+        "description": "hello today we made use of pygame and random module to create a self generated stick tree in pygame! source code: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LYLEN7Bu9rw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LYLEN7Bu9rw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LYLEN7Bu9rw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "thecodingbc",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-29T10:39:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wxG4v8kufElYqZUdZJMst-KhfWQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tihq_bLfk08"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-31T19:14:07Z",
+        "channelId": "UC7f5bVxWsm3jlZIPDzOMcAg",
+        "title": "Твоя ПЕРВАЯ НЕЙРОСЕТЬ на Python с нуля! | За 10 минут :3",
+        "description": "Вероятно, самый понятный и нескучный урок по нейросетям с нуля. Только при помощи Python + NumPy и на реальной ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tihq_bLfk08/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tihq_bLfk08/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tihq_bLfk08/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Хауди Хо™ - Просто о мире IT!",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-31T19:14:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6qvTlm8Ct6KzbAeYsCCfz59ThBg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UYxJBJQZU-I"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-31T14:00:29Z",
+        "channelId": "UCM-yUTYGmrNvKOCcAl21g3w",
+        "title": "Hierarchical Inheritance in Python | Python Tutorials for Beginners #lec92",
+        "description": "In this lecture we will discuss: - What is Hierarchical inheritance? - Program using Hierarchical Inheritance - Assignment question ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UYxJBJQZU-I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UYxJBJQZU-I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UYxJBJQZU-I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jenny's Lectures CS IT",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-31T14:00:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bt1vnt02TM1zPzLvSA-Z12pWrag",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Y8Tko2YC5hA"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-23T03:06:02Z",
+        "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+        "title": "What is Python? Why Python is So Popular?",
+        "description": "What is Python? This short video explains it in 4 minutes. Python Tutorial for Beginners: https://youtu.be/_uQrJ0TkZlc Python ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y8Tko2YC5hA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y8Tko2YC5hA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y8Tko2YC5hA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Programming with Mosh",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-10-23T03:06:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hxbEDwTiwHFI3jsZI_jiq3fx6G4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aoS_-PBI4w0"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-23T21:57:31Z",
+        "channelId": "UCW2QaaCszJ04uVQbRyY7O7g",
+        "title": "Python for Beginners Lesson 1 in Burmese presented by @SimonThuta",
+        "description": "ဆက်သွယ်ရန် : https://www.facebook.com/SimonThuta/ #simonthuta #Myanmar #Burmese Videos များကို ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aoS_-PBI4w0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aoS_-PBI4w0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aoS_-PBI4w0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SimonThuta",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-23T21:57:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "M0G-Zm5lN54nxGPlSXNR46WCRxw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mMv6OSuitWw"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-20T13:00:40Z",
+        "channelId": "UC4JX40jDee_tINbkjycV4Sg",
+        "title": "Python 101: Learn the 5 Must-Know Concepts",
+        "description": "See NordPass Business in action now with a 3-month free trial here http://nordpass.com/techwithtim with code techwithtim If you're ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mMv6OSuitWw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mMv6OSuitWw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mMv6OSuitWw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tech With Tim",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-20T13:00:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "upFm5OmtJuKA407hTNxYpfoyHVw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "X89cFg7Zd_o"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-30T14:39:14Z",
+        "channelId": "UCeVMnSShP_Iviwkknt83cww",
+        "title": "Prank using Python!",
+        "description": "Checkout my English channel here: https://www.youtube.com/channel/UC7btqG2Ww0_2LwuQxpvo2HQ ▻Instagram: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X89cFg7Zd_o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X89cFg7Zd_o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X89cFg7Zd_o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CodeWithHarry",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-30T14:39:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2CKVzdkMJCpj8wfjIa2SAYywZYg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mRMmlo_Uqcs"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-14T17:22:45Z",
+        "channelId": "UC9x0AN7BWHpCDHSm9NiJFJQ",
+        "title": "you need to learn Python RIGHT NOW!! // EP 1",
+        "description": "What I use to learn (the BEST IT training): https://ntck.co/itprotv (30% off FOREVER) *affiliate link FREE Python Lab: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mRMmlo_Uqcs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mRMmlo_Uqcs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mRMmlo_Uqcs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NetworkChuck",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-14T17:22:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9M-GBfbAgXybuRVzBXuH4ucLHuw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "t8pPdKYpowI"
+      },
+      "snippet": {
+        "publishedAt": "2021-03-05T14:10:17Z",
+        "channelId": "UCdngmbVKX1Tgre699-XLlUA",
+        "title": "Python Tutorial for Beginners - Learn Python in 5 Hours [FULL COURSE]",
+        "description": "Python Tutorial for Beginners | Full Python Course | Learn Python in 2023 The Ultimate IT Beginner's Course: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t8pPdKYpowI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t8pPdKYpowI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t8pPdKYpowI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TechWorld with Nana",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-03-05T14:10:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KO_806f0AoM1ahthh6Ynwn_B1Ds",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "b093aqAZiPU"
+      },
+      "snippet": {
+        "publishedAt": "2021-03-25T10:00:08Z",
+        "channelId": "UCfJT_eYDTmDE-ovKaxVE1ig",
+        "title": "👩‍💻 Python for Beginners Tutorial",
+        "description": "In this step-by-step Python for beginners tutorial, learn how you can get started programming in Python. In this video, I assume that ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b093aqAZiPU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b093aqAZiPU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b093aqAZiPU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Kevin Stratvert",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-03-25T10:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2OmBDzf6-arkMJoWXjNPHIF-mdw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eWRfhZUzrAc"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-09T12:54:23Z",
+        "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "title": "Python for Beginners – Full Course [Programming Tutorial]",
+        "description": "Learn the Python programming language in this full course for beginners! You will learn the fundamentals of Python and code two ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eWRfhZUzrAc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eWRfhZUzrAc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eWRfhZUzrAc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "freeCodeCamp.org",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-09T12:54:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ja56HyU7wySkaB6azkyiS_ReWt8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8DvywoWv6fI"
+      },
+      "snippet": {
+        "publishedAt": "2019-05-02T12:05:54Z",
+        "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "title": "Python for Everybody - Full University Python Course",
+        "description": "This Python 3 tutorial course aims to teach everyone the basics of programming computers using Python. The course has no ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8DvywoWv6fI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8DvywoWv6fI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8DvywoWv6fI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "freeCodeCamp.org",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-05-02T12:05:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "c0QB3Pu-5vmE95A415p_hLAAyBw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bXAJe1f3b9Y"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-31T22:35:08Z",
+        "channelId": "UCu28RVwAGnAfSSgeXNbVV0g",
+        "title": "A Local Golf Course Shut Down So I Can Hunt Iguanas",
+        "description": "A Local Golf Course Shut Down So I Can Hunt Iguanas. Today, Otto and I are heading back out to a local golf course to hunt ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bXAJe1f3b9Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bXAJe1f3b9Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bXAJe1f3b9Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Python Cowboy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-31T22:35:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ueXwv1bMJjsZL1PDQcy4jiKbCBU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4p7axLXXBGU"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-03T20:00:02Z",
+        "channelId": "UCafFexaRoRylOKdzGBU6Pgg",
+        "title": "Aprenda Python em 10min (para Iniciantes)",
+        "description": "Quer saber mais sobre o nosso Curso Completo de Python? Clique no link abaixo para garantir sua vaga na próxima turma: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4p7axLXXBGU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4p7axLXXBGU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4p7axLXXBGU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Hashtag Programação",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-03T20:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PG1UrnUayKN9_fAmff4DTN4bIek",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tEn5BjRY8Uw"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-27T15:05:00Z",
+        "channelId": "UCteRPiisgIoHtMgqHegpWAQ",
+        "title": "How to Learn Python FAST with ChatGPT?",
+        "description": "Intro to Python eBook (free) https://clickhubspot.com/jdz In this video, I am sharing 4 tips to learn any coding language FAST ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tEn5BjRY8Uw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tEn5BjRY8Uw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tEn5BjRY8Uw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sundas Khalid",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-27T15:05:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JijfPcIn0zWnUZwngPCbVdQTzVY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XYy2m6rxvLo"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-27T12:13:12Z",
+        "channelId": "UC3wtN9zelS5cIGo1gCDsMtg",
+        "title": "Let’s Get a Closer Look! #molinarosnakelab #ballpython #shorts #royalpython #python #eggcutting #diy",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XYy2m6rxvLo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XYy2m6rxvLo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XYy2m6rxvLo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Keary Molinaro",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-27T12:13:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YJxpi396ETzt_PNYUwFLEOr220Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0MhVkKHYUAY"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-31T12:57:40Z",
+        "channelId": "UCKaYxkHrmsQePZFpzF9b7sQ",
+        "title": "New Python Coders Be Like...",
+        "description": "Join the Discord Server: https://discord.gg/Ap2sf3sKqg Check out part 2: https://www.youtube.com/watch?v=v2BOctFvUT4.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0MhVkKHYUAY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0MhVkKHYUAY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0MhVkKHYUAY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mr. P Solver",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-31T12:57:40Z"
+      }
+    }
+  ]
+}
